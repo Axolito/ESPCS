@@ -4,7 +4,7 @@
  *
  * https://github.com/Axolito/ESPCS/
  *
- * (c) 2020 Axolito - https://github.com/Axolito
+ * (c) 2021 Axel BRUA (Axolito) - https://github.com/Axolito
  *
  * license GNU AGPL v3.0
  * [en] https://www.gnu.org/licenses/agpl-3.0.html
