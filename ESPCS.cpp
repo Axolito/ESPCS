@@ -1,3 +1,17 @@
+/*
+ * ESPCS
+ * Exal Serial Protocol Communication System for Arduino
+ *
+ * https://github.com/Axolito/ESPCS/
+ *
+ * (c) 2021 Axel BRUA (Axolito) - https://github.com/Axolito
+ *
+ * license GNU AGPL v3.0
+ * [en] https://www.gnu.org/licenses/agpl-3.0.html
+ * [fr] https://www.gnu.org/licenses/agpl-3.0.en.html
+ * 
+ */
+
 #include <Arduino.h>
 #include "ESPCS.h"
 
